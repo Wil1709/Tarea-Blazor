@@ -1,0 +1,62 @@
+C:\Users\Laptop - Wilmer\Desktop\webempresa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Laptop - Wilmer\Desktop\webempresa\bin\Debug\net7.0\appsettings.json
+C:\Users\Laptop - Wilmer\Desktop\webempresa\bin\Debug\net7.0\webempresa.staticwebassets.runtime.json
+C:\Users\Laptop - Wilmer\Desktop\webempresa\bin\Debug\net7.0\webempresa.exe
+C:\Users\Laptop - Wilmer\Desktop\webempresa\bin\Debug\net7.0\webempresa.deps.json
+C:\Users\Laptop - Wilmer\Desktop\webempresa\bin\Debug\net7.0\webempresa.runtimeconfig.json
+C:\Users\Laptop - Wilmer\Desktop\webempresa\bin\Debug\net7.0\webempresa.dll
+C:\Users\Laptop - Wilmer\Desktop\webempresa\bin\Debug\net7.0\webempresa.pdb
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.AssemblyInfoInputs.cache
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.AssemblyInfo.cs
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.csproj.CoreCompileInputs.cache
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.RazorAssemblyInfo.cache
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.RazorAssemblyInfo.cs
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\staticwebassets\msbuild.webempresa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\staticwebassets\msbuild.build.webempresa.props
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webempresa.props
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webempresa.props
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\scopedcss\bundle\webempresa.styles.css
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\scopedcss\projectbundle\webempresa.bundle.scp.css
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.dll
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\refint\webempresa.dll
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.pdb
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\webempresa.genruntimeconfig.cache
+C:\Users\Laptop - Wilmer\Desktop\webempresa\obj\Debug\net7.0\ref\webempresa.dll
+C:\xampp\htdocs\webempresa\bin\Debug\net7.0\appsettings.Development.json
+C:\xampp\htdocs\webempresa\bin\Debug\net7.0\appsettings.json
+C:\xampp\htdocs\webempresa\bin\Debug\net7.0\webempresa.staticwebassets.runtime.json
+C:\xampp\htdocs\webempresa\bin\Debug\net7.0\webempresa.exe
+C:\xampp\htdocs\webempresa\bin\Debug\net7.0\webempresa.deps.json
+C:\xampp\htdocs\webempresa\bin\Debug\net7.0\webempresa.runtimeconfig.json
+C:\xampp\htdocs\webempresa\bin\Debug\net7.0\webempresa.dll
+C:\xampp\htdocs\webempresa\bin\Debug\net7.0\webempresa.pdb
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.AssemblyInfoInputs.cache
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.AssemblyInfo.cs
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.RazorAssemblyInfo.cache
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.RazorAssemblyInfo.cs
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\staticwebassets.build.json
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\staticwebassets.development.json
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\staticwebassets\msbuild.webempresa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\staticwebassets\msbuild.build.webempresa.props
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.webempresa.props
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.webempresa.props
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\scopedcss\bundle\webempresa.styles.css
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\scopedcss\projectbundle\webempresa.bundle.scp.css
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.dll
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\refint\webempresa.dll
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.pdb
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\webempresa.genruntimeconfig.cache
+C:\xampp\htdocs\webempresa\obj\Debug\net7.0\ref\webempresa.dll
